@@ -1,0 +1,17 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+directIO	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+directRead	KEYWORD2
+directMode	KEYWORD2
+directWrite	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
